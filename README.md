@@ -1,3 +1,56 @@
+<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there 
+![](https://komarev.com/ghpvc/?username=wirespecter&label=Visitor) 
+
+Thanks for stopping by! I am passionate about Information Security and I learn every day in this exciting, ever changing field.
+
+<h2>My Stats</h2>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirespecter)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>My Tech Stack</h2>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Experience</b></td>
+      <td><b>Tech Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30" style="margin-right:10px"/>Proficient</td>
+      <td><a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" height="27"/></a>
+            <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" height="27"/></a>
+            <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-F3CD00?style=flat-square&logo=linux&logoColor=white" height="27"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://slackmojis.com/emojis/18436-loading/download" width="20" style="margin-right:20px"/> Learning</td>
+        <td>
+            <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/></a>
+			<a href="https://docs.pytest.org/en/7.0.x/" target="_blank"><img alt="Pytest" src="https://img.shields.io/badge/-Pytest-ffd43b?style=flat-square&logo=pytest&logoColor=white" height="27"/></a> 
+        </td>
+    </tr>
+  </tbody>
+</table>   
+
+<h2>My Projects</h2>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Title</b></td>
+      <td><b>Skills</b></td>
+      <td><b>Links</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif?1643514600" width="30" style="margin-right:10px"/> Oblichat</td>
+       <td>Node.js, Javascript, Pjax</td>
+       <td><a href="https://github.com/wirespecter/oblichat" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
+       </td>
+    </tr>	
+  </tbody>
+</table>
