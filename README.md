@@ -5,7 +5,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
 
 <h2>My Stats</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&bg_color=30,6e87c7,000061&title_color=fff&text_color=fff)
+![Wirespecter's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&bg_color=30,6e87c7,000061&title_color=fff&text_color=fff)
 
 
 <h2>My Tech Stack</h2>
