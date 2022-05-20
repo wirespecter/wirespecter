@@ -5,7 +5,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
 
 <h2>My Stats</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&bg_color=30,6e87c7,000061&title_color=fff&text_color=fff)
 
 
 <h2>My Tech Stack</h2>
@@ -22,6 +22,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
       <td><img src="https://emojis.slackmojis.com/emojis/images/1621492453/40491/expert.gif?1621492453" width="30" style="margin-right:10px"/>Proficient</td>
 <td><a href="https://go.dev/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-1cb0d5?style=flat-square&logo=go&logoColor=white" height="27"/></a>
      <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" height="27"/></a>
+       <a href="https://www.javascript.com/" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-e78750?style=flat-square&logo=javascript&logoColor=white" height="27"/></a>
             <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" height="27"/></a>
             <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-F3CD00?style=flat-square&logo=linux&logoColor=white" height="27"/></a>
         </td>
