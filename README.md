@@ -1,11 +1,11 @@
 <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there 
-![](https://komarev.com/ghpvc/?username=wirespecter&label=Visitor) 
+![](https://komarev.com/ghpvc/?username=wirespecter&label=Visitor)
 
 Thanks for stopping by! I am passionate about Information Security and I learn every day in this exciting, ever changing field.
 
 <h2>My Stats</h2>
 
-![Wirespecter's github stats](https://github-readme-stats.vercel.app/api?username=wirespecter&count_private=true&bg_color=30,6e87c7,000061&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
 
 <h2>My Tech Stack</h2>
