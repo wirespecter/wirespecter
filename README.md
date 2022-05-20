@@ -47,8 +47,14 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
     </tr>
   </thead>
   <tbody>
+        <tr>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="30" style="margin-right:10px"/> CyberAnubis Exploit Search Engine</td>
+       <td>GO, Javascript, Docker, Pentesting</td>
+       <td><a href="https://www.cyberanubis.com/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
+       </td>
+    </tr>
     <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif?1643514600" width="30" style="margin-right:10px"/> ObliChat</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif?1643514977" width="30" style="margin-right:10px"/> ObliChat</td>
        <td>Node.js, Javascript, Pjax, NoSQL, Web Sockets, Public-key cryptography</td>
        <td><a href="https://github.com/wirespecter/oblichat" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
