@@ -49,7 +49,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
   <tbody>
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643514600/6039/partydeploy.gif?1643514600" width="30" style="margin-right:10px"/> Oblichat</td>
-       <td>Node.js, Javascript, Pjax, Web Sockets, Public-key cryptography</td>
+       <td>Node.js, Javascript, Pjax, NoSQL, Web Sockets, Public-key cryptography</td>
        <td><a href="https://github.com/wirespecter/oblichat" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>	
