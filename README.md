@@ -55,7 +55,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
     </tr>
     <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="30" style="margin-right:10px"/> ObliChat</td>
-       <td>Node.js, Javascript, HTML/CSS, Pjax, NoSQL, Web Sockets, Public-key cryptography</td>
+       <td>Node.js, Javascript, HTML/CSS, Pjax, NoSQL, Web Sockets, Cryptography</td>
        <td><a href="https://github.com/wirespecter/oblichat" target="_blank"><img src="https://img.icons8.com/stickers/344/github.png" width="30"/></a>
        </td>
     </tr>	
