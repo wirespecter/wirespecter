@@ -49,7 +49,7 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
   <tbody>
         <tr>
        <td><img src="https://emojis.slackmojis.com/emojis/images/1643514980/10065/evil_parrot.gif?1643514980" width="30" style="margin-right:10px"/> CyberAnubis Exploit Search Engine</td>
-       <td>GO, Javascript, HTML/CSS, Docker</td>
+       <td>Go, Javascript, HTML/CSS, Docker</td>
        <td><a href="https://www.cyberanubis.com/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="30"/></a>
        </td>
     </tr>
