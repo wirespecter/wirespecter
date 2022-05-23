@@ -48,9 +48,9 @@ Thanks for stopping by! I am passionate about Information Security and I learn e
   </thead>
   <tbody>
         <tr>
-       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514980/10065/evil_parrot.gif?1643514980" width="40" style="margin-right:10px"/> CyberAnubis - Exploit Search Engine</td>
+       <td><img src="https://emojis.slackmojis.com/emojis/images/1643514980/10065/evil_parrot.gif?1643514980" width="20" style="margin-right:10px"/> CyberAnubis - Exploit Search Engine</td>
        <td>Go, Javascript, HTML/CSS, Docker</td>
-       <td><a href="https://www.cyberanubis.com/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="40"/></a>
+       <td><a href="https://www.cyberanubis.com/" target="_blank"><img src="https://img.icons8.com/stickers/344/domain.png" width="20"/></a>
        </td>
     </tr>
     <tr>
